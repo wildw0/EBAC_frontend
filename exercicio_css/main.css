@@ -97,7 +97,7 @@ section h2 {
 }
 
 #sports .articles article a {
-    background-color: #4f4e417e;
+    background-color: #171a23b2;
 }
 
 #economy {
@@ -109,19 +109,19 @@ section h2 {
 }
 
 #mundo {
-    background-color: rgba(36, 36, 36, 0.2);
+    background-color: rgba(188, 72, 72, 0.2);
 }
 
 #mundo .articles article a {
-    background-color: #4f4e417e;
+    background-color: #7117017e;
 }
 
 #games {
-    background-color: #4f4e417e;
+    background-color: #e6dd607e;
 }
 
 #games .articles article a {
-    background-color: rgba(36, 36, 36, 0.2);
+    background-color: rgba(254, 154, 5, 0.2);
 }
 
 
